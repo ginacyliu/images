@@ -1,4 +1,10 @@
-[
-{"type":"life","list":['bike','evening','moon','rain','sunny','sunrise']},
-{"type":"work","list":[]}
-]
+{"data":[
+    {
+        "type":"life",
+        "list":["bike","evening","moon","rain","sunny","sunrise"]
+    },
+    {
+        "type":"work",
+        "list":[]
+    }
+]}
