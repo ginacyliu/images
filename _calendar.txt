@@ -1,4 +1,4 @@
 [
-{"type":"life","list":["bike","evening","moon”,”rain","sunny","sunrise”]},
+{"type":"life","list":["bike","evening","moon","rain","sunny","sunrise"]},
 {"type":"work","list":[]}
 ]
